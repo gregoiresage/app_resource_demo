@@ -1,0 +1,21 @@
+{
+  "uuid": "16717551-5c89-4ff6-a1f8-7922e5ece4cf",
+  "shortName": "app_resource_demo",
+  "longName": "app_resource_demo",
+  "companyName": "Gregorie Sage",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [
+    {
+        "type": "raw",
+        "name": "PEOPLE_BIN",
+        "file": "raw/people.bin"
+      }
+    ]
+  }
+}
